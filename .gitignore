@@ -1,0 +1,10 @@
+node_modules
+dist
+
+.turbo
+
+# Build Outputs
+.next/
+out/
+build
+dist
